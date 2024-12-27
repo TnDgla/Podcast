@@ -128,7 +128,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Building REST APIs](https://www.youtube.com/watch?v=pKd0Rpw7O48)
   3. Display podcasts on the homepage.
      - **Reading:** [React Components](https://reactjs.org/docs/components-and-props.html)
-     - **Video:** [React Component Tutorial](https://www.youtube.com/watch?v=f0f3yf2ZTq4)
+     - **Video:** [React Component Tutorial](https://www.youtube.com/watch?v=S4VH8hddg8c&t=431s)
 - **Deliverables:**
   - Functional podcast upload and display system.
 
@@ -139,7 +139,7 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Build a search and filter functionality for podcasts.
      - **Reading:** [React State Management](https://reactjs.org/docs/state-and-lifecycle.html)
-     - **Video:** [React Search Bar Tutorial](https://www.youtube.com/watch?v=OlVkYnVXPl0)
+     - **Video:** [React Search Bar Tutorial](https://www.youtube.com/watch?v=-bEzt5ISACA&t=465s)
   2. Create a user profile page to manage uploaded podcasts.
      - **Reading:** [React Router Docs](https://reactrouter.com/en/main)
      - **Video:** [React Router Tutorial](https://www.youtube.com/watch?v=Ul3y1LXxzdU)
@@ -153,7 +153,7 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Deploy the frontend using Netlify or Vercel.
      - **Reading:** [Netlify Deployment Guide](https://docs.netlify.com/)
-     - **Video:** [Deploying React Apps](https://www.youtube.com/watch?v=YdYyYMFPa44)
+     - **Video:** [Deploying React Apps](https://www.youtube.com/watch?v=CdU75u7uIvE)
   2. Deploy the backend using Render.
      - **Reading:** [Render Deployment Docs](https://render.com/docs)
      - **Video:** [Deploying Node.js Apps](https://www.youtube.com/watch?v=l134cBAJCuc)
