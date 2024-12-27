@@ -90,8 +90,8 @@ This project is structured to ensure a systematic and incremental development pr
      - **Reading:** [React.js Official Docs](https://react.dev/blog/2023/03/16/introducing-react-dev)
      - **Video:** [React.js Crash Course](https://www.youtube.com/watch?v=RGKi6LSPDLU&t=4589s)
   2. Set up the basic project structure.
-     - **Reading:** [React App Structure](https://reactjs.org/docs/getting-started.html)
-     - **Video:** [Setting Up a React Project](https://www.youtube.com/watch?v=ZVnjOPwW4ZA)
+     - **Reading:** [Next.js Structure](https://next-auth.js.org/)
+     - **Video:** [Setting Next.js](https://www.youtube.com/watch?v=ZVnjOPwW4ZA)
   3. Design the homepage layout with Tailwind CSS.
      - **Reading:** [Tailwind CSS Docs](https://tailwindcss.com/docs/installation)
      - **Video:** [Tailwind CSS Setup Guide](https://www.youtube.com/watch?v=UBOj6rqRUME)
